@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Kifiya AI mastery training](https://github.com/Skywalker416/EDA-and-Stats-Analysis-Week-0.git)
 
-- 🌱 I’m currently learning **python, datastructre**
+- 🌱 I’m currently learning **Python, AI modeling, Data Analysis**
 
 - 👨‍💻 Know more about me [Portfolio](https://sites.google.com/view/amanuellegesse)
 
